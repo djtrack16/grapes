@@ -1,0 +1,23 @@
+2020.07.26 22:09:16 INFO  started: Metals version 0.9.2 in workspace '/Users/dliddell/Desktop/code/grapes' for client vscode.
+2020.07.26 22:09:20 INFO  time: initialize in 3.91s
+2020.07.26 22:09:32 WARN  no build tool detected in workspace '/Users/dliddell/Desktop/code/grapes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.02 12:53:09 INFO  shutting down Metals
+2020.08.04 16:40:15 INFO  started: Metals version 0.9.2 in workspace '/Users/dliddell/Desktop/code/grapes' for client vscode.
+2020.08.04 16:40:21 INFO  time: initialize in 5.84s
+2020.08.04 16:40:25 WARN  no build tool detected in workspace '/Users/dliddell/Desktop/code/grapes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.09 11:52:49 INFO  started: Metals version 0.9.2 in workspace '/Users/dliddell/Desktop/code/grapes' for client vscode.
+2020.08.09 11:52:56 INFO  time: initialize in 8.79s
+2020.08.09 11:54:56 WARN  no build tool detected in workspace '/Users/dliddell/Desktop/code/grapes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 09, 2020 10:46:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.08.09 22:46:55 INFO  shutting down Metals
+2020.08.09 22:52:12 INFO  started: Metals version 0.9.2 in workspace '/Users/dliddell/Desktop/code/grapes' for client vscode.
+2020.08.09 22:52:20 INFO  time: initialize in 7.88s
+2020.08.09 22:52:30 WARN  no build tool detected in workspace '/Users/dliddell/Desktop/code/grapes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 10, 2020 12:44:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Aug 11, 2020 9:41:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.08.13 13:07:16 INFO  started: Metals version 0.9.2 in workspace '/Users/dliddell/Desktop/code/grapes' for client vscode.
+2020.08.13 13:07:21 INFO  time: initialize in 4.98s
+2020.08.13 13:07:40 WARN  no build tool detected in workspace '/Users/dliddell/Desktop/code/grapes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
